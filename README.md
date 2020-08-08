@@ -10,7 +10,7 @@ You can find the detailed blog about this in this blog. [Link](https://medium.co
 
 *You can also download the dataset from the link metioned below.*
 
-** [Link:](https://github.com/prajnasb/observations **)
+** [Link:](https://github.com/prajnasb/observations) **
 
 ## Blog for Reference: [Link](https://medium.com/@narenltk/train-your-own-dataset-for-object-detector-with-tensorflows-object-detector-api-53f74467f6d4)
 
