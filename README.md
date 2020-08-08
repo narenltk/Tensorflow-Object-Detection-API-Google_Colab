@@ -6,7 +6,7 @@
 
 This is a Custom Object Detection using TensorFlow where in your training in Google Colab. Here I have done a Mask Detection as my contribution for Covid-19. 
 
-You can find the detailed blog about this in this blog. [Link](https://medium.com/@narenltk/train-your-own-dataset-for-object-detector-with-tensorflows-object-detector-api-53f74467f6d4)
+You can find the detailed blog about this in this blog. [Link](https://medium.com/@narenltk/tensorflows-object-detection-api-using-google-collab-cb92d7f7b3cf?source=friends_link&sk=08eb1498bcc5bdc08f7d794b87b6d371)
 
 *You can also download the dataset from the link metioned below.*
 
