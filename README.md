@@ -35,3 +35,8 @@ C:\> pip install sklearn
 C:\> pip install pandas
 C:\> pip install opencv-python
 ```
+## Final output:
+
+<p align="center">
+  <img src="output/download.jpg">
+</p>
